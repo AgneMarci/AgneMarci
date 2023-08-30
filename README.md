@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgneMarci
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning full-stack Java(Spring Boot, React).
+- 🌱 I have finished intensive full-stack Java courses(Spring Boot, React).
 - 💞️ I’m looking to collaborate on every project to learn!
 - 📫 How to reach me : agne.marcisauskaite@gmail.com, linkedin.com/in/agne-marcisauskaite-8a8262165.
 
